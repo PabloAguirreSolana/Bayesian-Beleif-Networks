@@ -8,4 +8,4 @@ The data bases used for this experiment were taken from Latinobarómetro 2018 an
 
 The models of this notebook, do not pretend to be exahustive of a Probabilistic Bayesian Network, they are a baseline by which different evidence can be tested, depending on the variables included in the model.
 
-A notebook to wrangle and process the data to convert into a friendly format for the models to run is provided. Also the data sets from Latinobarómetro survey.
+A notebook to wrangle and process the data to convert into a friendly format for the models to run is provided. Also the data-sets from Latinobarómetro survey, are provided in XLSX format.
